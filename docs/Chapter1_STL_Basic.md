@@ -38,4 +38,4 @@ STL提供六大组件，彼此可以组合套用
 | 配接器(adapters)| 一种用来修饰容器(containers) 或仿函数(functors)或迭代器(iterators)接口的东西，改变 `container` 接口者，称为 `container adapter`; 改变 `iterator` 接口者，称为 `iteratoradapter`。|
 | 配置器(allocators) | 负责空间配置与管理，从实现的角度来看，配置器是一个实现了动态空间配置、空间管理、空间释放的 class template。|
 
-![1-1](/docs/assets/1-1.png)
+![1-1](/docs/assets/chapter1/1-1.png)
